@@ -1,0 +1,53 @@
+# AI StackWatch 24
+
+AI StackWatch 24 tracks the 36 companies and platforms building the AI revolution, organised as a six-layer stack: Energy, Chips, Cloud & Infrastructure, AI Models, Platforms, Applications. It publishes end-of-day prices (Yahoo Finance), a daily market brief, per-company pages with daily notes, and a verified breakthrough-news board. 31 companies are publicly traded; 5 are private and tracked watch-only (no prices). Educational publication — not investment advice.
+
+## Pages
+- Home / the map: https://madisonshalom72.github.io/aistackwatch/
+- Daily Brief (today's market wrap): https://madisonshalom72.github.io/aistackwatch/daily-brief.html
+- Hot Tech Breakthroughs (verified stories with sources): https://madisonshalom72.github.io/aistackwatch/breakthroughs.html
+- About, data sources & methodology: https://madisonshalom72.github.io/aistackwatch/about.html
+
+## Companies by layer
+### Layer 1 · Energy
+- Oklo (OKLO): https://madisonshalom72.github.io/aistackwatch/companies/oklo.html
+- GE Vernova (GEV): https://madisonshalom72.github.io/aistackwatch/companies/ge-vernova.html
+- Vistra (VST): https://madisonshalom72.github.io/aistackwatch/companies/vistra.html
+- Bloom Energy (BE): https://madisonshalom72.github.io/aistackwatch/companies/bloom-energy.html
+- Constellation Energy (CEG): https://madisonshalom72.github.io/aistackwatch/companies/constellation.html
+- NextEra Energy (NEE): https://madisonshalom72.github.io/aistackwatch/companies/nextera-energy.html
+### Layer 2 · Chips
+- NVIDIA (NVDA): https://madisonshalom72.github.io/aistackwatch/companies/nvidia.html
+- Broadcom (AVGO): https://madisonshalom72.github.io/aistackwatch/companies/broadcom.html
+- TSMC (TSM): https://madisonshalom72.github.io/aistackwatch/companies/tsmc.html
+- AMD (AMD): https://madisonshalom72.github.io/aistackwatch/companies/amd.html
+- Micron (MU): https://madisonshalom72.github.io/aistackwatch/companies/micron.html
+- ASML (ASML): https://madisonshalom72.github.io/aistackwatch/companies/asml.html
+### Layer 3 · Cloud & Infrastructure
+- AWS · Amazon (AMZN): https://madisonshalom72.github.io/aistackwatch/companies/aws-amazon.html
+- Microsoft (MSFT): https://madisonshalom72.github.io/aistackwatch/companies/microsoft.html
+- Oracle (ORCL): https://madisonshalom72.github.io/aistackwatch/companies/oracle.html
+- Equinix (EQIX): https://madisonshalom72.github.io/aistackwatch/companies/equinix.html
+- Vertiv (VRT): https://madisonshalom72.github.io/aistackwatch/companies/vertiv.html
+- Arista Networks (ANET): https://madisonshalom72.github.io/aistackwatch/companies/arista.html
+### Layer 4 · AI Models
+- Google DeepMind · Alphabet (GOOGL): https://madisonshalom72.github.io/aistackwatch/companies/google-deepmind.html
+- Grok · xAI (SpaceX) (private, watch-only): https://madisonshalom72.github.io/aistackwatch/companies/grok-xai.html
+- Mistral AI (private, watch-only): https://madisonshalom72.github.io/aistackwatch/companies/mistral-ai.html
+- Meta (META): https://madisonshalom72.github.io/aistackwatch/companies/meta.html
+- Anthropic (private, watch-only): https://madisonshalom72.github.io/aistackwatch/companies/anthropic.html
+- OpenAI (private, watch-only): https://madisonshalom72.github.io/aistackwatch/companies/openai.html
+### Layer 5 · Platforms
+- Palantir (PLTR): https://madisonshalom72.github.io/aistackwatch/companies/palantir.html
+- Snowflake (SNOW): https://madisonshalom72.github.io/aistackwatch/companies/snowflake.html
+- Salesforce (CRM): https://madisonshalom72.github.io/aistackwatch/companies/salesforce.html
+- Adobe (ADBE): https://madisonshalom72.github.io/aistackwatch/companies/adobe.html
+- ServiceNow (NOW): https://madisonshalom72.github.io/aistackwatch/companies/servicenow.html
+- Databricks (private, watch-only): https://madisonshalom72.github.io/aistackwatch/companies/databricks.html
+### Layer 6 · Applications
+- UiPath (PATH): https://madisonshalom72.github.io/aistackwatch/companies/uipath.html
+- Duolingo (DUOL): https://madisonshalom72.github.io/aistackwatch/companies/duolingo.html
+- SoundHound AI (SOUN): https://madisonshalom72.github.io/aistackwatch/companies/soundhound.html
+- AppLovin (APP): https://madisonshalom72.github.io/aistackwatch/companies/applovin.html
+- Roblox (RBLX): https://madisonshalom72.github.io/aistackwatch/companies/roblox.html
+- Twilio (TWLO): https://madisonshalom72.github.io/aistackwatch/companies/twilio.html
